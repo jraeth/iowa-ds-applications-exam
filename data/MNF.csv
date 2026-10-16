@@ -1,0 +1,471 @@
+Game,Network,Away Team,Home Team,Date,Viewership,PoorGame,Week,ElectionYear,MaxScoreAvg,MinScoreAvg,BestFranchiseRank,WorstFranchiseRank,EliteQBs,MaxPrevWins,MinPrevWins,PlayoffRematch,Divisional,SuperBowlChamp,WorstOddsSB,BestOddsSB
+1,ABC,San Francisco 49ers,New York Giants,9/2/1991,4.0439,No,1,No,0.5458,0.2293,4,5,2,14,13,1,0,1,400,400
+2,ABC,Washington Redskins,Dallas Cowboys,9/9/1991,4.4664,No,2,No,1.0383,-1.3712,3,15,2,10,7,0,1,0,2000,1000
+3,ABC,Kansas City Chiefs,Tennessee Titans,9/16/1991,2.2834,No,3,No,1.4604,0.8272,17,19,1,11,9,0,0,0,1800,800
+4,ABC,New York Jets,Chicago Bears,9/23/1991,2.9876,No,4,No,0.4579,-0.4742,11,14,,11,6,0,0,0,12500,1800
+5,ABC,Philadelphia Eagles,Washington Redskins,9/30/1991,3.1988,No,5,No,1.3021,1.0383,7,15,1,10,10,1,1,0,1000,1000
+6,ABC,Buffalo Bills,Kansas City Chiefs,10/7/1991,3.6214,No,6,No,1.8649,0.8272,12,17,1,13,11,0,0,0,800,350
+7,ABC,New York Giants,Pittsburgh Steelers,10/14/1991,2.6355,No,7,No,0.2293,-0.527,4,27,1,13,9,0,0,1,2000,400
+8,ABC,Cincinnati Bengals,Buffalo Bills,10/21/1991,3.1284,No,8,No,1.8649,0.6689,12,13,1,13,9,0,0,0,2000,350
+9,ABC,Oakland Raiders,Kansas City Chiefs,10/28/1991,2.5651,No,9,No,0.8272,0.2644,8,17,0,12,11,0,1,0,800,600
+10,ABC,New York Giants,Philadelphia Eagles,11/4/1991,2.6355,No,10,No,1.3021,0.2293,4,7,1,13,10,0,1,1,1000,400
+11,ABC,Chicago Bears,Minnesota Vikings,11/11/1991,3.5509,No,11,No,0.5107,0.4579,11,20,1,11,6,0,1,0,1800,1500
+12,ABC,Buffalo Bills,Miami Dolphins,11/18/1991,2.6355,No,12,No,1.8649,0.2468,1,12,2,13,12,1,1,0,1500,350
+13,ABC,San Francisco 49ers,St. Louis Rams,11/25/1991,1.2271,Yes,13,No,0.5458,0.4051,5,9,1,14,5,0,1,0,3000,400
+14,ABC,Philadelphia Eagles,Tennessee Titans,12/2/1991,3.7622,No,14,No,1.4604,1.3021,7,19,1,10,9,0,0,0,1800,1000
+15,ABC,Cincinnati Bengals,Miami Dolphins,12/9/1991,0.8046,Yes,15,No,0.6689,0.2468,1,13,1,12,9,0,0,0,2000,1500
+16,ABC,Oakland Raiders,New Orleans Saints,12/16/1991,4.5368,No,16,No,0.2644,-0.8436,8,16,0,12,8,0,0,0,5000,
+17,ABC,Chicago Bears,San Francisco 49ers,12/23/1991,2.9172,No,17,No,0.5458,0.4579,5,11,1,14,11,0,0,0,1800,400
+18,ABC,Washington Redskins,Dallas Cowboys,9/7/1992,4.2995,No,1,Yes,2.4471,0.516,3,18,,14,11,0,1,1,1000,600
+19,ABC,Miami Dolphins,Cleveland Browns,9/14/1992,1.7879,No,2,Yes,0.5295,-0.1456,1,9,,8,6,0,0,0,4000,2500
+20,ABC,New York Giants,Chicago Bears,9/21/1992,2.7105,No,3,Yes,-0.0646,-0.3077,3,8,0,11,8,0,0,0,1800,1800
+21,ABC,Oakland Raiders,Kansas City Chiefs,9/28/1992,3.1719,No,4,Yes,0.246,-0.0781,8.5,15,,10,9,1,1,0,2200,1500
+22,ABC,Dallas Cowboys,Philadelphia Eagles,10/5/1992,5.8372,No,5,Yes,0.516,-0.2537,3,5.5,2,11,10,0,1,0,1000,800
+23,ABC,Denver Broncos,Washington Redskins,10/12/1992,2.7618,No,6,Yes,2.4471,0.0029,18,25,0,14,12,0,0,1,1500,600
+24,ABC,Cincinnati Bengals,Pittsburgh Steelers,10/19/1992,2.198,No,7,Yes,-0.1592,-0.5508,17.5,21.5,1,7,3,0,1,0,10000,
+25,ABC,Buffalo Bills,New York Jets,10/26/1992,2.403,No,8,Yes,2.0825,0.1379,11.5,17,1,13,8,0,1,0,3000,500
+26,ABC,Minnesota Vikings,Chicago Bears,11/2/1992,2.6593,No,9,Yes,-0.0376,-0.0646,8,19.5,0,11,8,0,1,0,4000,1800
+27,ABC,San Francisco 49ers,Atlanta Falcons,11/9/1992,3.0181,No,10,Yes,1.2047,0.7726,5.5,22,2,10,10,0,1,0,3000,500
+28,ABC,Buffalo Bills,Miami Dolphins,11/16/1992,3.3769,No,11,Yes,2.0825,0.5295,1,11.5,2,13,8,0,1,0,2500,500
+29,ABC,Washington Redskins,New Orleans Saints,11/23/1992,2.608,No,12,Yes,2.4471,0.5025,15,18,1,14,11,0,0,1,1800,600
+30,ABC,Denver Broncos,Seattle Seahawks,11/30/1992,1.9417,No,13,Yes,0.0029,-0.3752,8.5,25,0,12,7,0,1,0,6000,1500
+31,ABC,Chicago Bears,Tennessee Titans,12/7/1992,2.608,No,14,Yes,1.1102,-0.0646,8,13.5,1,11,11,0,0,0,1800,800
+32,ABC,Oakland Raiders,Miami Dolphins,12/14/1992,2.3005,No,15,Yes,0.5295,-0.0781,1,8.5,1,9,8,0,0,0,2500,1500
+33,ABC,Dallas Cowboys,Atlanta Falcons,12/21/1992,3.1206,No,16,Yes,0.7726,0.516,3,22,2,11,10,0,0,0,3000,1000
+34,ABC,Detroit Lions,San Francisco 49ers,12/28/1992,4.197,No,17,Yes,1.2047,0.4755,5.5,24.5,1,12,10,0,0,0,,500
+35,ABC,Dallas Cowboys,Washington Redskins,9/6/1993,5.2948,No,1,No,1.6905,0.005,2.333333333,18.33333333,,13,9,0,1,1,1500,350
+36,ABC,San Francisco 49ers,Cleveland Browns,9/13/1993,3.7628,No,2,No,2.0307,-0.428,5.333333333,9,,14,7,0,0,0,3500,400
+37,ABC,Denver Broncos,Kansas City Chiefs,9/20/1993,4.2735,No,3,No,0.7472,-0.5826,13.66666667,24,2,10,8,0,1,0,1500,1000
+38,ABC,Pittsburgh Steelers,Atlanta Falcons,9/27/1993,2.4011,No,4,No,0.4225,-0.0105,19.66666667,21.33333333,1,11,6,0,0,0,4500,1800
+39,ABC,Washington Redskins,Miami Dolphins,10/4/1993,3.1954,No,5,No,0.6235,0.005,2,18.33333333,1,11,9,0,0,0,1500,1200
+40,ABC,Tennessee Titans,Buffalo Bills,10/11/1993,1.7202,Yes,6,No,1.2575,0.8091,9.666666667,12.33333333,0,11,10,1,0,0,1000,1000
+41,ABC,Oakland Raiders,Denver Broncos,10/18/1993,3.0252,No,7,No,-0.5826,-0.7837,11.33333333,24,1,8,7,0,1,0,,1500
+42,ABC,Minnesota Vikings,Chicago Bears,10/25/1993,3.3657,No,8,No,1.1493,-0.0723,8,19,0,11,5,0,1,0,7500,1500
+43,ABC,Washington Redskins,Buffalo Bills,11/1/1993,2.7983,No,9,No,1.2575,0.005,9.666666667,18.33333333,0,11,9,0,0,0,1500,1000
+44,ABC,Green Bay Packers,Kansas City Chiefs,11/8/1993,2.7415,No,10,No,0.7472,-0.3662,13.66666667,17.33333333,1,10,9,0,0,0,1200,1000
+45,ABC,Buffalo Bills,Pittsburgh Steelers,11/15/1993,2.9117,No,11,No,1.2575,-0.0105,9.666666667,21.33333333,0,11,11,1,0,0,1800,
+46,ABC,New Orleans Saints,San Francisco 49ers,11/22/1993,1.7769,No,12,No,2.0307,0.4689,5.333333333,14,1,14,12,0,1,0,2500,400
+47,ABC,San Diego Chargers,Indianapolis Colts,11/29/1993,0.8691,Yes,13,No,0.5462,-1.294,18.66666667,24,0,11,9,0,0,0,4000,1200
+48,ABC,Philadelphia Eagles,Dallas Cowboys,12/6/1993,3.7061,No,14,No,1.6905,0.84,2.333333333,4.333333333,2,13,11,1,1,1,2500,350
+49,ABC,Pittsburgh Steelers,Miami Dolphins,12/13/1993,3.5359,No,15,No,0.6235,-0.0105,2,21.33333333,1,11,11,0,0,0,1800,1200
+50,ABC,New York Giants,New Orleans Saints,12/20/1993,3.2522,No,16,No,0.4689,0.0978,3,14,,12,6,0,0,0,5000,2500
+51,ABC,Miami Dolphins,San Diego Chargers,12/27/1993,2.4011,No,17,No,0.6235,0.5462,2,24,1,11,11,1,0,0,1200,1200
+52,ABC,Philadelphia Eagles,San Francisco 49ers,1/3/1994,2.9685,No,18,No,2.0307,0.84,4.333333333,5.333333333,2,14,11,0,0,0,,400
+53,ABC,Oakland Raiders,San Francisco 49ers,9/5/1994,4.2434,No,1,No,2.8073,0.1102,5,13,1,10,10,0,0,0,600,200
+54,ABC,Chicago Bears,Philadelphia Eagles,9/12/1994,2.4671,No,2,No,-0.0998,-1.0527,4,8,0,8,7,0,0,0,6500,3300
+55,ABC,Detroit Lions,Dallas Cowboys,9/19/1994,4.0658,No,3,No,1.2407,-0.019,2,25.5,,12,10,0,0,1,3400,300
+56,ABC,Denver Broncos,Buffalo Bills,9/26/1994,2.1119,No,4,No,1.1923,0.4816,8.75,22,,12,9,0,0,0,,
+57,ABC,Tennessee Titans,Pittsburgh Steelers,10/3/1994,1.4014,Yes,5,No,1.1115,0.1425,11.75,21,0,12,9,0,1,0,3000,1600
+58,ABC,Minnesota Vikings,New York Giants,10/10/1994,3.1776,No,6,No,-0.1805,-0.3582,2.75,18.5,0,11,9,1,0,0,8000,1000
+59,ABC,Kansas City Chiefs,Denver Broncos,10/17/1994,3.5329,No,7,No,1.1923,0.4655,13.25,22,,11,9,0,1,0,1200,600
+60,ABC,Tennessee Titans,Philadelphia Eagles,10/24/1994,2.4671,No,8,No,1.1115,-0.0998,4,11.75,0,12,8,0,0,0,3300,3000
+61,ABC,Green Bay Packers,Chicago Bears,10/31/1994,2.5263,No,9,No,0.6593,-1.0527,8,19.5,1,9,7,0,1,0,6500,900
+62,ABC,New York Giants,Dallas Cowboys,11/7/1994,3.5921,No,10,No,1.2407,-0.1805,2,2.75,1,12,11,0,1,1,8000,300
+63,ABC,Buffalo Bills,Pittsburgh Steelers,11/14/1994,2.5855,No,11,No,0.4816,0.1425,8.75,21,1,12,9,0,0,0,1600,1000
+64,ABC,New York Giants,Tennessee Titans,11/21/1994,1.2237,Yes,12,No,1.1115,-0.1805,2.75,11.75,,12,11,0,0,0,8000,3000
+65,ABC,San Francisco 49ers,New Orleans Saints,11/28/1994,2.1119,No,13,No,2.8073,0.2878,5,13.25,2,10,8,0,1,0,2500,200
+66,ABC,Oakland Raiders,San Diego Chargers,12/5/1994,2.9408,No,14,No,0.3686,0.1102,13,24,0,10,8,0,1,0,,
+67,ABC,Kansas City Chiefs,Miami Dolphins,12/12/1994,4.0066,No,15,No,0.8046,0.4655,3.25,13.25,,11,9,0,0,0,1200,800
+68,ABC,Dallas Cowboys,New Orleans Saints,12/19/1994,4.0066,No,16,No,1.2407,0.2878,2,13.25,2,12,8,0,0,1,2500,300
+69,ABC,San Francisco 49ers,Minnesota Vikings,12/26/1994,4.5394,No,17,No,2.8073,-0.3582,5,18.5,,10,9,0,0,0,1000,200
+70,ABC,Dallas Cowboys,New York Giants,9/4/1995,3.0811,No,1,No,1.5259,-0.7657,1.8,3.8,1,12,9,0,1,0,2500,300
+71,ABC,Green Bay Packers,Chicago Bears,9/11/1995,2.0072,No,2,No,0.9827,-0.9015,8.4,18.4,,9,9,0,1,0,2500,2500
+72,ABC,Pittsburgh Steelers,Miami Dolphins,9/18/1995,3.0811,No,3,No,1.1015,-0.1376,3,21.8,,12,10,0,0,0,800,600
+73,ABC,San Francisco 49ers,Detroit Lions,9/25/1995,4.8708,No,4,No,3.0706,0.5584,4.6,25.6,2,13,9,0,0,1,3500,200
+74,ABC,Buffalo Bills,Cleveland Browns,10/2/1995,1.7119,Yes,5,No,0.2698,0.2698,8,8.2,1,11,7,0,0,0,,1200
+75,ABC,San Diego Chargers,Kansas City Chiefs,10/9/1995,2.2846,No,6,No,0.9657,-0.0867,11.8,22.6,0,11,9,0,1,0,3500,1500
+76,ABC,Oakland Raiders,Denver Broncos,10/16/1995,3.6001,No,7,No,0.3886,-0.3583,15.2,22,0,9,7,0,1,0,1200,1000
+77,ABC,Buffalo Bills,New England Patriots,10/23/1995,2.5352,No,8,No,0.4565,0.2698,8,25,0,10,7,0,1,0,2000,800
+78,ABC,Chicago Bears,Minnesota Vikings,10/30/1995,2.8484,No,9,No,0.5414,-0.9015,8.4,17.8,2,10,9,1,1,0,2500,
+79,ABC,Philadelphia Eagles,Dallas Cowboys,11/6/1995,4.5397,No,10,No,1.5259,-0.2734,1.8,4,1,12,7,0,1,0,2500,300
+80,ABC,Cleveland Browns,Pittsburgh Steelers,11/13/1995,2.6963,No,11,No,0.2698,-0.1376,8.2,21.8,1,12,11,1,1,0,1200,800
+81,ABC,San Francisco 49ers,Miami Dolphins,11/20/1995,4.3428,No,12,No,3.0706,1.1015,3,4.6,,13,10,0,0,1,600,200
+82,ABC,Oakland Raiders,San Diego Chargers,11/27/1995,1.8551,No,13,No,0.9657,-0.3583,15.2,22.6,0,11,9,0,1,0,1500,1000
+83,ABC,Chicago Bears,Detroit Lions,12/4/1995,2.4725,No,14,No,0.5584,-0.9015,8.4,25.6,,9,9,0,1,0,3500,2500
+84,ABC,Kansas City Chiefs,Miami Dolphins,12/11/1995,3.6985,No,15,No,1.1015,-0.0867,3,11.8,1,10,9,1,0,0,3500,600
+85,ABC,Minnesota Vikings,San Francisco 49ers,12/18/1995,3.7343,No,16,No,3.0706,0.5414,4.6,17.8,,13,10,0,0,1,2500,200
+86,ABC,Dallas Cowboys,Arizona Cardinals,12/25/1995,1.6403,Yes,17,No,1.5259,-1.5126,1.8,16.6,1,12,8,0,1,0,2500,300
+87,ABC,Dallas Cowboys,Chicago Bears,9/2/1996,4.2536,No,1,Yes,1.5694,0.8295,1.4,8,0,12,9,0,0,1,4000,600
+88,ABC,Philadelphia Eagles,Green Bay Packers,9/9/1996,2.8859,No,2,Yes,1.036,-0.444,3.8,21.6,,11,10,0,0,0,3000,800
+89,ABC,Buffalo Bills,Pittsburgh Steelers,9/16/1996,2.641,No,3,Yes,1.0876,0.1067,7,21.2,0,11,10,1,0,0,1500,1000
+90,ABC,Miami Dolphins,Indianapolis Colts,9/23/1996,3.7223,No,4,Yes,0.9327,-0.2203,3.2,23.6,1,9,9,0,1,0,,1800
+91,ABC,Dallas Cowboys,Philadelphia Eagles,9/30/1996,4.3176,No,5,Yes,1.5694,-0.444,1.4,3.8,1,12,10,1,1,1,3000,
+92,ABC,Pittsburgh Steelers,Kansas City Chiefs,10/7/1996,3.2664,No,6,Yes,1.0876,0.2444,10,21.2,0,13,11,0,0,0,1200,1000
+93,ABC,San Francisco 49ers,Green Bay Packers,10/14/1996,4.0388,No,7,Yes,1.948,1.036,4.4,21.6,2,11,11,1,0,0,800,250
+94,ABC,Oakland Raiders,San Diego Chargers,10/21/1996,1.4503,Yes,8,Yes,0.0723,-0.3924,18,20.6,1,9,8,0,1,0,2500,1500
+95,ABC,Chicago Bears,Minnesota Vikings,10/28/1996,2.7841,No,9,Yes,1.1736,0.8295,8,17,0,9,8,0,1,0,5000,4000
+96,ABC,Denver Broncos,Oakland Raiders,11/4/1996,2.9085,No,10,Yes,0.7606,0.0723,18,21,2,8,8,0,1,0,2000,1500
+97,ABC,Detroit Lions,San Diego Chargers,11/11/1996,2.0795,No,11,Yes,1.5866,-0.3924,20.6,26.6,0,10,9,0,0,0,2500,1500
+98,ABC,Green Bay Packers,Dallas Cowboys,11/18/1996,4.9619,No,12,Yes,1.5694,1.036,1.4,21.6,1,12,11,1,0,1,800,600
+99,ABC,Pittsburgh Steelers,Miami Dolphins,11/25/1996,3.2476,No,13,Yes,1.0876,0.9327,3.2,21.2,1,11,9,0,0,0,1800,1000
+100,ABC,San Francisco 49ers,Atlanta Falcons,12/2/1996,2.0494,No,14,Yes,1.948,0.3132,4.4,14.6,1,11,9,0,1,0,4000,250
+101,ABC,Kansas City Chiefs,Oakland Raiders,12/9/1996,2.1059,No,15,Yes,0.2444,0.0723,10,18,1,13,8,0,1,0,1500,1200
+102,ABC,Buffalo Bills,Miami Dolphins,12/16/1996,2.641,No,16,Yes,0.9327,0.1067,3.2,7,1,10,9,1,1,0,1800,1500
+103,ABC,Detroit Lions,San Francisco 49ers,12/23/1996,1.6463,Yes,17,Yes,1.948,1.5866,4.4,26.6,1,11,10,0,0,0,1500,250
+104,ABC,Chicago Bears,Green Bay Packers,9/1/1997,3.0113,No,1,No,2.4328,-0.8256,9.2,21.4,1,13,7,0,1,1,5000,250
+105,ABC,Kansas City Chiefs,Oakland Raiders,9/8/1997,1.9789,No,2,No,0.248,-0.5619,9.8,18,1,9,7,0,1,0,2000,1500
+106,ABC,Philadelphia Eagles,Dallas Cowboys,9/15/1997,4.531,No,3,No,0.6812,-0.7691,1,5,0,10,10,0,1,0,2000,500
+107,ABC,Pittsburgh Steelers,Jacksonville Jaguars,9/22/1997,3.0306,No,4,No,0.3233,-0.0345,17,23.6,1,10,9,0,1,0,2000,1500
+108,ABC,San Francisco 49ers,Carolina Panthers,9/29/1997,2.4855,No,5,No,1.3404,0.7565,4.6,17,1,12,12,0,1,0,1800,450
+109,ABC,New England Patriots,Denver Broncos,10/6/1997,2.3252,No,6,No,1.7171,1.2086,20.8,21.2,2,13,11,0,0,0,1200,1000
+110,ABC,Dallas Cowboys,Washington Redskins,10/13/1997,2.6138,No,7,No,0.7,-0.7691,1,14.8,0,10,9,0,1,0,3500,500
+111,ABC,Buffalo Bills,Indianapolis Colts,10/20/1997,1.5942,Yes,8,No,-0.1475,-0.1852,7.4,26.6,,10,9,0,1,0,4000,3000
+112,ABC,Green Bay Packers,New England Patriots,10/27/1997,4.1655,No,9,No,2.4328,1.7171,20.8,21.4,2,13,11,1,0,1,1200,250
+113,ABC,Pittsburgh Steelers,Kansas City Chiefs,11/3/1997,3.4666,No,10,No,0.3233,-0.5619,9.8,23.6,0,10,9,0,0,0,2000,1500
+114,ABC,San Francisco 49ers,Philadelphia Eagles,11/10/1997,2.5496,No,11,No,1.3404,0.6812,4.6,5,1,12,10,1,0,0,2000,450
+115,ABC,Buffalo Bills,Miami Dolphins,11/17/1997,1.9918,No,12,No,0.2292,-0.1475,3.6,7.4,0,10,8,0,1,0,3000,1800
+116,ABC,Oakland Raiders,Denver Broncos,11/24/1997,1.716,Yes,13,No,1.2086,0.248,18,21.2,,13,7,0,1,0,1500,1000
+117,ABC,Green Bay Packers,Minnesota Vikings,12/1/1997,4.1591,No,14,No,2.4328,-0.5431,17.8,21.4,2,13,9,0,1,1,4000,250
+118,ABC,Carolina Panthers,Dallas Cowboys,12/8/1997,3.2293,No,15,No,0.7565,-0.7691,1,17,0,12,10,1,0,0,1800,500
+119,ABC,Denver Broncos,San Francisco 49ers,12/15/1997,4.9735,No,16,No,1.3404,1.2086,4.6,21.2,2,13,12,0,0,0,1000,450
+120,ABC,New England Patriots,Miami Dolphins,12/22/1997,3.178,No,17,No,1.7171,0.2292,3.6,20.8,1,11,8,0,1,0,1800,1200
+121,ABC,New England Patriots,Denver Broncos,9/7/1998,3.517,No,1,No,2.6974,0.7143,16.8,19.8,2,12,10,0,0,1,1500,600
+122,ABC,San Francisco 49ers,Washington Redskins,9/14/1998,2.3327,No,2,No,0.8298,-0.0943,10.2,11,,13,8,0,0,0,2500,350
+123,ABC,Dallas Cowboys,New York Giants,9/21/1998,2.5359,No,3,No,-0.4794,-0.5372,5.4,12.2,1,10,6,0,1,0,5000,3500
+124,ABC,Tampa Bay Buccaneers,Detroit Lions,9/28/1998,1.3748,Yes,4,No,0.9068,-0.6334,21.5,25.2,0,9,6,1,1,0,6000,3000
+125,ABC,Minnesota Vikings,Green Bay Packers,10/5/1998,4.6956,No,5,No,1.7347,0.4255,20.2,20.7,1,13,9,0,1,0,2000,250
+126,ABC,Miami Dolphins,Jacksonville Jaguars,10/12/1998,1.7463,Yes,6,No,1.1956,0.1367,6.3,15.83,,11,9,0,0,0,3000,800
+127,ABC,New York Jets,New England Patriots,10/19/1998,3.3893,No,7,No,0.7143,0.31,16.8,18.4,1,10,9,0,1,0,2500,1500
+128,ABC,Pittsburgh Steelers,Kansas City Chiefs,10/26/1998,3.3429,No,8,No,0.8298,0.7721,14.6,20.4,1,13,11,0,0,0,1200,800
+129,ABC,Dallas Cowboys,Philadelphia Eagles,11/2/1998,2.5765,No,9,No,-0.2869,-0.5372,5.4,10.6,1,6,6,0,1,0,10000,3500
+130,ABC,Green Bay Packers,Pittsburgh Steelers,11/9/1998,4.0163,No,10,No,1.7347,0.7721,20.2,20.4,2,13,11,0,0,0,1200,250
+131,ABC,Denver Broncos,Kansas City Chiefs,11/16/1998,2.9829,No,11,No,2.6974,0.8298,14.6,19.8,1,13,12,1,1,1,800,600
+132,ABC,Miami Dolphins,New England Patriots,11/23/1998,3.6738,No,12,No,0.7143,0.1367,6.3,16.8,,10,9,1,1,0,3000,1500
+133,ABC,New York Giants,San Francisco 49ers,11/30/1998,3.041,No,13,No,0.8298,-0.4794,10.2,12.2,1,13,10,0,0,0,5000,350
+134,ABC,Green Bay Packers,Tampa Bay Buccaneers,12/7/1998,3.8886,No,14,No,1.7347,-0.6334,20.2,25.2,,13,6,1,0,0,6000,250
+135,ABC,Detroit Lions,San Francisco 49ers,12/14/1998,1.8218,No,15,No,0.9068,0.8298,10.2,21.5,1,13,9,0,0,0,3000,350
+136,ABC,Denver Broncos,Miami Dolphins,12/21/1998,4.4227,No,16,No,2.6974,0.1367,6.3,19.8,,12,9,0,0,1,3000,600
+137,ABC,Pittsburgh Steelers,Jacksonville Jaguars,12/28/1998,1.6418,Yes,17,No,1.1956,0.7721,15.83,20.4,2,11,11,0,1,0,1200,800
+138,ABC,Miami Dolphins,Denver Broncos,9/13/1999,4.4643,No,1,No,1.9443,-0.2362,6.1,17.9,1,14,10,1,0,1,1000,500
+139,ABC,Atlanta Falcons,Dallas Cowboys,9/20/1999,3.9237,No,2,No,1.2296,0.4906,5.4,19.8,1,14,10,0,0,0,2200,1000
+140,ABC,San Francisco 49ers,Arizona Cardinals,9/27/1999,2.6383,No,3,No,1.6778,-0.1878,12.4,25.1,1,12,9,0,0,0,4000,800
+141,ABC,Buffalo Bills,Miami Dolphins,10/4/1999,3.0865,No,4,No,0.7208,-0.2362,6.1,13.1,1,10,10,1,1,0,2000,1000
+142,ABC,Jacksonville Jaguars,New York Jets,10/11/1999,0.7266,Yes,5,No,0.9146,0.6239,13.88,17.2,1,12,11,1,0,0,700,600
+143,ABC,Dallas Cowboys,New York Giants,10/18/1999,1.8802,No,6,No,0.4906,-0.6481,5.4,14.6,1,10,8,0,1,0,3500,2200
+144,ABC,Atlanta Falcons,Pittsburgh Steelers,10/25/1999,2.1373,No,7,No,1.2296,-0.9388,18.6,19.8,0,14,7,0,0,0,5000,1000
+145,ABC,Seattle Seahawks,Green Bay Packers,11/1/1999,3.7325,No,8,No,0.8177,0.3816,18.2,19.1,,11,8,0,0,0,1800,700
+146,ABC,Dallas Cowboys,Minnesota Vikings,11/8/1999,4.55,No,9,No,2.6106,0.4906,5.4,22.4,,15,10,0,0,0,2200,450
+147,ABC,New York Jets,New England Patriots,11/15/1999,2.7042,No,10,No,0.9146,-0.0424,13.2,17.2,1,12,9,0,1,0,4000,700
+148,ABC,Oakland Raiders,Denver Broncos,11/22/1999,2.4405,No,11,No,1.9443,-0.636,17.9,20.5,0,14,8,0,1,1,7500,500
+149,ABC,Green Bay Packers,San Francisco 49ers,11/29/1999,2.5196,No,12,No,1.6778,0.8177,12.4,19.1,,12,11,1,0,0,800,
+150,ABC,Minnesota Vikings,Tampa Bay Buccaneers,12/6/1999,3.3238,No,13,No,2.6106,-0.321,22.4,25.2,0,15,6,0,1,0,6000,450
+151,ABC,Denver Broncos,Jacksonville Jaguars,12/13/1999,2.6251,No,14,No,1.9443,0.6239,13.88,17.9,1,14,11,0,0,1,600,500
+152,ABC,Green Bay Packers,Minnesota Vikings,12/20/1999,3.8512,No,15,No,2.6106,0.8177,19.1,22.4,1,15,11,0,1,0,,450
+153,ABC,New York Jets,Miami Dolphins,12/27/1999,3.3963,No,16,No,0.9146,-0.2362,6.1,17.2,1,12,10,0,1,0,1000,700
+154,ABC,Denver Broncos,St. Louis Rams,9/4/2000,4.5187,No,1,Yes,2.8585,-0.2819,8.2,14.3,1,13,6,0,0,1,1200,300
+155,ABC,New England Patriots,New York Jets,9/11/2000,2.7489,No,2,Yes,-0.3708,-0.5041,13.8,20,,8,8,0,1,0,5000,2000
+156,ABC,Dallas Cowboys,Washington Redskins,9/18/2000,3.466,No,3,Yes,1.629,0.281,1.2,5.7,1,10,8,0,1,0,4000,350
+157,ABC,Jacksonville Jaguars,Indianapolis Colts,9/25/2000,1.6621,Yes,4,Yes,1.3327,0.9328,13.3,27.9,2,14,13,0,0,0,1200,1000
+158,ABC,Seattle Seahawks,Kansas City Chiefs,10/2/2000,2.2823,No,5,Yes,0.8439,0.0736,15,17.1,0,9,9,0,1,0,5000,4000
+159,ABC,Tampa Bay Buccaneers,Minnesota Vikings,10/9/2000,4.2626,No,6,Yes,0.9772,-0.9337,23.7,25.2,0,10,6,0,1,0,6000,4000
+160,ABC,Jacksonville Jaguars,Tennessee Titans,10/16/2000,1.8669,No,7,Yes,0.9328,0.8735,13.3,14.4,1,14,13,1,1,0,1200,800
+161,ABC,Miami Dolphins,New York Jets,10/23/2000,2.7091,No,8,Yes,-0.1042,-0.3708,4.8,20,0,9,8,0,1,0,6000,2000
+162,ABC,Tennessee Titans,Washington Redskins,10/30/2000,3.6367,No,9,Yes,1.629,0.8735,5.7,14.4,0,13,10,0,0,0,,350
+163,ABC,Minnesota Vikings,Green Bay Packers,11/6/2000,4.109,No,10,Yes,0.9772,0.355,21.5,23.7,1,10,8,0,1,0,4000,3500
+164,ABC,Oakland Raiders,Denver Broncos,11/13/2000,2.8514,No,11,Yes,0.8439,-0.2819,14.3,23.2,0,8,6,0,1,0,1500,1200
+165,ABC,Washington Redskins,St. Louis Rams,11/20/2000,3.6993,No,12,Yes,2.8585,1.629,5.7,8.2,1,13,10,0,0,1,350,300
+166,ABC,Green Bay Packers,Carolina Panthers,11/27/2000,2.9481,No,13,Yes,1.3031,0.355,9.2,21.5,1,8,8,0,0,0,5000,3500
+167,ABC,Kansas City Chiefs,New England Patriots,12/4/2000,1.4629,Yes,14,Yes,0.8439,-0.5041,13.8,15,1,9,8,0,0,0,5000,5000
+168,ABC,Buffalo Bills,Indianapolis Colts,12/11/2000,2.2596,No,15,Yes,1.3327,-0.193,16.4,27.9,1,13,11,0,1,0,,
+169,ABC,St. Louis Rams,Tampa Bay Buccaneers,12/18/2000,4.4732,No,16,Yes,2.8585,-0.9337,8.2,25.2,1,13,6,1,0,1,6000,300
+170,ABC,Dallas Cowboys,Tennessee Titans,12/25/2000,2.0433,No,17,Yes,0.8735,0.281,1.2,14.4,1,13,8,0,0,0,4000,
+171,ABC,New York Giants,Denver Broncos,9/10/2001,4.794,No,1,No,1.8434,-0.0332,11.6,14.5,,12,11,0,0,0,1500,800
+172,ABC,Washington Redskins,Green Bay Packers,9/24/2001,3.3166,No,2,No,0.2656,-0.5949,3.9,22.8,1,9,8,0,0,0,2000,1500
+173,ABC,San Francisco 49ers,New York Jets,10/1/2001,2.8078,No,3,No,0.684,-0.1168,15.5,18.1,0,9,6,0,0,0,4000,2200
+174,ABC,St. Louis Rams,Detroit Lions,10/8/2001,2.6904,No,4,No,2.5007,-0.2842,10,20.9,1,10,9,0,0,0,3000,400
+175,ABC,Washington Redskins,Dallas Cowboys,10/15/2001,1.4772,Yes,5,No,-0.4395,-0.5949,1.4,3.9,0,8,5,0,1,0,7500,1500
+176,ABC,Philadelphia Eagles,New York Giants,10/22/2001,1.5261,Yes,6,No,0.2417,-0.0332,14.5,20,0,12,11,1,1,0,2000,1500
+177,ABC,Tennessee Titans,Pittsburgh Steelers,10/29/2001,3.2677,No,7,No,0.182,-0.1168,11.4,15.8,1,13,9,0,1,0,,800
+178,ABC,Denver Broncos,Oakland Raiders,11/5/2001,3.4829,No,8,No,1.8434,1.7716,11.6,24.4,,12,11,0,1,0,1500,
+179,ABC,Baltimore Ravens,Tennessee Titans,11/12/2001,2.2012,No,9,No,0.182,0.0266,6.8,11.4,,13,12,1,1,1,800,800
+180,ABC,New York Giants,Minnesota Vikings,11/19/2001,3.4144,No,10,No,0.7916,-0.0332,14.5,26.4,1,12,11,1,0,0,1800,
+181,ABC,Tampa Bay Buccaneers,St. Louis Rams,11/26/2001,3.8352,No,11,No,2.5007,0.684,10,25.2,1,10,6,0,0,0,6000,400
+182,ABC,Green Bay Packers,Jacksonville Jaguars,12/3/2001,2.6415,No,12,No,0.433,0.2656,9.8,22.8,2,9,7,0,0,0,3000,2000
+183,ABC,Indianapolis Colts,Miami Dolphins,12/10/2001,2.0544,No,13,No,1.174,-0.0929,6.4,27.4,1,11,10,1,1,0,3000,1200
+184,ABC,St. Louis Rams,New Orleans Saints,12/17/2001,4.4907,No,14,No,2.5007,0.2776,10,22.6,1,10,10,1,1,0,2000,400
+185,ABC,Pittsburgh Steelers,New England Patriots,9/9/2002,4.2723,No,1,No,0.8209,0.4936,10.2,12,0,13,11,1,0,1,2000,800
+186,ABC,Philadelphia Eagles,Washington Redskins,9/16/2002,3.4411,No,2,No,0.3385,-1.1605,1.4,21.2,,11,8,0,1,0,2500,1000
+187,ABC,St. Louis Rams,Tampa Bay Buccaneers,9/23/2002,4.0555,No,3,No,3.0954,0.0111,12,25.2,,14,6,0,0,0,6000,350
+188,ABC,Denver Broncos,Baltimore Ravens,9/30/2002,3.0888,No,4,No,0.2868,-0.3507,6.6,7.8,0,10,8,0,0,0,6000,2000
+189,ABC,Green Bay Packers,Chicago Bears,10/7/2002,2.3569,No,5,No,1.1483,0.2523,22.6,23.6,1,13,12,0,1,0,2500,1000
+190,ABC,San Francisco 49ers,Seattle Seahawks,10/14/2002,1.4444,Yes,6,No,1.4757,-0.3852,12.2,18.7,1,12,9,0,1,0,3000,2000
+191,ABC,Indianapolis Colts,Pittsburgh Steelers,10/21/2002,2.3027,No,7,No,1.5446,0.4936,12,27.2,1,13,6,0,0,0,1500,800
+192,ABC,New York Giants,Philadelphia Eagles,10/28/2002,2.5738,No,8,No,0.3385,-0.5058,16.3,21.2,,11,7,0,1,0,4000,1000
+193,ABC,Miami Dolphins,Green Bay Packers,11/4/2002,4.3446,No,9,No,1.1483,0.3557,7.8,22.6,1,12,11,0,0,0,1500,1000
+194,ABC,Oakland Raiders,Denver Broncos,11/11/2002,3.9471,No,10,No,1.3034,0.2868,7.8,28.2,1,10,8,0,1,0,2000,
+195,ABC,Chicago Bears,St. Louis Rams,11/18/2002,3.3417,No,11,No,3.0954,0.2523,12,23.6,1,14,13,0,0,0,2500,350
+196,ABC,Philadelphia Eagles,San Francisco 49ers,11/25/2002,2.9984,No,12,No,1.4757,0.3385,18.7,21.2,2,12,11,0,0,0,2000,1000
+197,ABC,New York Jets,Oakland Raiders,12/2/2002,3.7302,No,13,No,1.3034,-0.2646,17.1,28.2,1,10,10,1,0,0,3000,1200
+198,ABC,Chicago Bears,Miami Dolphins,12/9/2002,2.384,No,14,No,0.3557,0.2523,7.8,23.6,0,13,11,0,0,0,2500,1500
+199,ABC,New England Patriots,Tennessee Titans,12/16/2002,2.8538,No,15,No,0.8209,0.2179,10.2,10.2,,11,7,0,0,1,2500,2000
+200,ABC,Pittsburgh Steelers,Tampa Bay Buccaneers,12/23/2002,3.2604,No,16,No,0.4936,0.0111,12,25.2,0,13,6,0,0,0,6000,800
+201,ABC,San Francisco 49ers,St. Louis Rams,12/30/2002,0.6042,Yes,17,No,3.0954,1.4757,12,18.7,2,14,12,0,1,0,,350
+202,ABC,Tampa Bay Buccaneers,Philadelphia Eagles,9/8/2003,4.3697,No,1,No,1.1065,-0.0127,19.8,25.2,1,12,6,1,0,1,6000,1000
+203,ABC,Dallas Cowboys,New York Giants,9/15/2003,4.285,No,2,No,-0.4344,-2.105,1.8,17.7,0,10,5,0,1,0,4000,2000
+204,ABC,Oakland Raiders,Denver Broncos,9/22/2003,3.404,No,3,No,1.6741,0.7334,7.2,27.2,1,11,9,0,1,0,1500,1200
+205,ABC,Green Bay Packers,Chicago Bears,9/29/2003,3.5649,No,4,No,0.8307,-1.0669,21,21.2,1,12,4,0,1,0,3500,1300
+206,ABC,Indianapolis Colts,Tampa Bay Buccaneers,10/6/2003,1.9384,No,5,No,0.036,-0.0127,25.2,27,1,10,6,0,0,1,6000,3500
+207,ABC,Atlanta Falcons,St. Louis Rams,10/13/2003,0.4051,Yes,6,No,0.8956,-0.4993,14,29.2,2,9,7,0,0,0,1200,1200
+208,ABC,Kansas City Chiefs,Oakland Raiders,10/20/2003,3.3955,No,7,No,1.9499,1.6741,20.6,27.2,1,11,8,0,1,0,2500,1200
+209,ABC,Miami Dolphins,San Diego Chargers,10/27/2003,2.4128,No,8,No,0.5064,-0.2235,8.8,22,,9,8,0,0,0,3500,1000
+210,ABC,New England Patriots,Denver Broncos,11/3/2003,3.1753,No,9,No,0.7334,0.555,7.2,7.2,1,9,9,0,0,0,1500,
+211,ABC,Philadelphia Eagles,Green Bay Packers,11/10/2003,3.9123,No,10,No,1.1065,0.8307,19.8,21.2,2,12,12,0,0,0,1300,1000
+212,ABC,Pittsburgh Steelers,San Francisco 49ers,11/17/2003,2.7178,No,11,No,0.701,0.3279,12.8,19.9,1,10,10,0,0,0,2000,1500
+213,ABC,New York Giants,Tampa Bay Buccaneers,11/24/2003,2.5568,No,12,No,-0.0127,-0.4344,17.7,25.2,0,10,6,0,0,1,6000,2000
+214,ABC,Tennessee Titans,New York Jets,12/1/2003,2.6246,No,13,No,0.3279,0.1982,10.8,18.9,,11,9,0,0,0,,1500
+215,ABC,St. Louis Rams,Cleveland Browns,12/8/2003,2.5145,No,14,No,-0.0451,-0.4993,3.5,14,1,9,7,0,0,0,3000,1200
+216,ABC,Philadelphia Eagles,Miami Dolphins,12/15/2003,4.0139,No,15,No,1.1065,0.5064,8.8,19.8,1,12,9,0,0,0,1000,1000
+217,ABC,Green Bay Packers,Oakland Raiders,12/22/2003,2.7093,No,16,No,1.6741,0.8307,21.2,27.2,2,12,11,0,0,0,1300,
+218,ABC,Green Bay Packers,Carolina Panthers,9/13/2004,4.15,No,1,Yes,1.5222,-0.1164,7,19.6,,11,10,0,0,0,1800,1400
+219,ABC,Minnesota Vikings,Philadelphia Eagles,9/20/2004,4.3773,No,2,Yes,1.1581,0.5698,16.4,28.6,,12,9,0,0,0,2000,500
+220,ABC,Dallas Cowboys,Washington Redskins,9/27/2004,4.544,No,3,Yes,-0.6206,-0.6486,1,2,0,10,5,0,1,0,,1300
+221,ABC,Kansas City Chiefs,Baltimore Ravens,10/4/2004,3.2027,No,4,Yes,2.1104,0.8079,7.2,20.6,0,13,10,0,0,0,1400,1200
+222,ABC,Tennessee Titans,Green Bay Packers,10/11/2004,2.354,No,5,Yes,1.5222,1.4242,10.6,19.6,1,12,10,0,0,0,1400,1300
+223,ABC,Tampa Bay Buccaneers,St. Louis Rams,10/18/2004,0.5277,Yes,6,Yes,1.5922,-0.4525,15.2,25.2,0,12,6,0,0,0,6000,
+224,ABC,Denver Broncos,Cincinnati Bengals,10/25/2004,3.0587,No,7,Yes,0.6679,0.1777,7,18.8,0,10,8,0,0,0,3300,1800
+225,ABC,Miami Dolphins,New York Jets,11/1/2004,2.0736,No,8,Yes,-0.3125,-0.7046,9.8,19.9,0,10,6,0,1,0,2800,2000
+226,ABC,Minnesota Vikings,Indianapolis Colts,11/8/2004,3.4755,No,9,Yes,1.5922,1.1581,27.4,28.6,1,12,9,0,0,0,2000,350
+227,ABC,Philadelphia Eagles,Dallas Cowboys,11/15/2004,3.4907,No,10,Yes,0.5698,-0.6206,2,16.4,1,12,10,0,1,0,2400,500
+228,ABC,New England Patriots,Kansas City Chiefs,11/22/2004,2.7632,No,11,Yes,2.1104,0.2057,7,20.6,1,14,13,0,0,1,1200,600
+229,ABC,St. Louis Rams,Green Bay Packers,11/29/2004,3.3997,No,12,Yes,1.5922,1.5222,15.2,19.6,1,12,10,0,0,0,2000,1400
+230,ABC,Dallas Cowboys,Seattle Seahawks,12/6/2004,2.9526,No,13,Yes,0.99,-0.6206,2,15.2,0,10,10,0,0,0,2400,1800
+231,ABC,Kansas City Chiefs,Tennessee Titans,12/13/2004,1.8993,No,14,Yes,2.1104,1.4242,10.6,20.6,0,13,12,0,0,0,1300,1200
+232,ABC,New England Patriots,Miami Dolphins,12/20/2004,2.9905,No,15,Yes,0.2057,-0.3125,7,9.8,1,14,10,0,1,1,2000,600
+233,ABC,Philadelphia Eagles,St. Louis Rams,12/27/2004,2.7405,No,16,Yes,1.5922,0.5698,15.2,16.4,1,12,12,0,0,0,2000,500
+234,ABC,Philadelphia Eagles,Atlanta Falcons,9/12/2005,3.9759,No,1,No,0.6056,-0.0538,12.2,30.2,,13,11,1,0,0,2000,500
+235,ESPN,New York Giants,New Orleans Saints,9/19/2005,0.2801,Yes,2,No,0.0609,-0.5841,18.9,22.8,,8,6,0,0,0,7000,6000
+236,ABC,Kansas City Chiefs,Denver Broncos,9/26/2005,2.4825,No,3,No,1.9961,0.534,6.4,20.2,0,10,7,0,1,0,3000,2000
+237,ABC,Green Bay Packers,Carolina Panthers,10/3/2005,3.0295,No,4,No,1.1503,0.1613,7.6,17.6,1,10,7,0,0,0,,2000
+238,ABC,Pittsburgh Steelers,San Diego Chargers,10/10/2005,2.9719,No,5,No,1.4657,0.4049,14.2,26.2,0,15,12,0,0,0,3000,1200
+239,ABC,St. Louis Rams,Indianapolis Colts,10/17/2005,2.7848,No,6,No,2.5551,-0.3548,16.6,27.4,1,12,8,0,0,0,4000,500
+240,ABC,New York Jets,Atlanta Falcons,10/24/2005,2.8099,No,7,No,-0.0538,-0.1541,20.5,30.2,1,11,10,0,0,0,2000,2000
+241,ABC,Baltimore Ravens,Pittsburgh Steelers,10/31/2005,3.2706,No,8,No,0.4049,-0.3834,8,14.2,,15,9,0,1,0,1200,1100
+242,ABC,Indianapolis Colts,New England Patriots,11/7/2005,4.4365,No,9,No,2.5551,1.3367,5.6,27.4,2,14,12,1,0,1,500,500
+243,ABC,Dallas Cowboys,Philadelphia Eagles,11/14/2005,3.76,No,10,No,0.6056,-0.7275,2,12.2,,13,6,0,1,0,2500,500
+244,ABC,Minnesota Vikings,Green Bay Packers,11/21/2005,3.2022,No,11,No,1.1503,0.878,17.6,29.6,,10,8,1,1,0,3500,1800
+245,ABC,Pittsburgh Steelers,Indianapolis Colts,11/28/2005,4.6345,No,12,No,2.5551,0.4049,14.2,27.4,1,15,12,0,0,0,1200,500
+246,ABC,Seattle Seahawks,Philadelphia Eagles,12/5/2005,2.8855,No,13,No,0.6056,0.3906,12.2,15.2,1,13,9,0,0,0,4000,500
+247,ABC,New Orleans Saints,Atlanta Falcons,12/12/2005,2.6048,No,14,No,0.0609,-0.0538,22.8,30.2,1,11,8,0,1,0,6000,2000
+248,ABC,Green Bay Packers,Baltimore Ravens,12/19/2005,2.2558,No,15,No,1.1503,-0.3834,8,17.6,,10,9,0,0,0,3500,1100
+249,ABC,New England Patriots,New York Jets,12/26/2005,2.6156,No,16,No,1.3367,-0.1541,5.6,20.5,1,14,10,0,1,1,2000,500
+250,ESPN,San Diego Chargers,Oakland Raiders,9/11/2006,2.0862,No,1,No,1.3207,-0.5976,26.8,28.2,0,9,4,0,1,0,10000,1600
+251,ESPN,Minnesota Vikings,Washington Redskins,9/11/2006,3.065,No,1,No,0.4365,-0.3578,1,30.2,0,10,9,0,0,0,3000,1600
+252,ESPN,Pittsburgh Steelers,Jacksonville Jaguars,9/18/2006,3.5334,No,2,No,0.8861,0.4665,15.2,22.4,,12,11,0,0,1,3000,1200
+253,ESPN,Atlanta Falcons,New Orleans Saints,9/25/2006,4.3198,No,3,No,0.3166,-1.4218,23.2,30.2,,8,3,0,1,0,5000,3000
+254,ESPN,Green Bay Packers,Philadelphia Eagles,10/2/2006,3.249,No,4,No,-0.2979,-0.4777,8.8,15.4,,6,4,0,0,0,10000,2000
+255,ESPN,Baltimore Ravens,Denver Broncos,10/9/2006,3.2741,No,5,No,0.976,-0.9723,6.2,8.6,0,13,6,0,0,0,2500,1200
+256,ESPN,Chicago Bears,Arizona Cardinals,10/16/2006,4.2864,No,6,No,-0.2829,-1.0472,10.6,30,0,11,5,0,0,0,5000,1600
+257,ESPN,New York Giants,Dallas Cowboys,10/23/2006,5.0393,No,7,No,1.3806,-0.0731,2.2,18.2,0,11,9,0,1,0,1600,1400
+258,ESPN,New England Patriots,Minnesota Vikings,10/30/2006,2.8307,No,8,No,0.7362,-0.3578,4.2,30.2,,10,9,0,0,0,3000,800
+259,ESPN,Oakland Raiders,Seattle Seahawks,11/6/2006,1.8686,No,9,No,1.8302,-0.5976,15.4,26.8,0,13,4,0,1,0,10000,1000
+260,ESPN,Tampa Bay Buccaneers,Carolina Panthers,11/13/2006,1.6679,Yes,10,No,0.9161,-0.4477,8.8,25.2,0,11,6,0,1,0,6000,1300
+261,ESPN,New York Giants,Jacksonville Jaguars,11/20/2006,2.3539,No,11,No,1.3806,0.4665,18.2,22.4,,12,11,0,0,0,3000,1600
+262,ESPN,Green Bay Packers,Seattle Seahawks,11/27/2006,3.1653,No,12,No,1.8302,-0.4777,15.4,15.4,1,13,4,0,0,0,10000,1000
+263,ESPN,Carolina Panthers,Philadelphia Eagles,12/4/2006,2.1614,No,13,No,0.9161,-0.2979,8.8,8.8,1,11,6,0,0,0,2000,1300
+264,ESPN,Chicago Bears,St. Louis Rams,12/11/2006,2.5463,No,14,No,0.4964,-1.0472,10.6,17.8,,11,6,0,0,0,6000,1600
+265,ESPN,Cincinnati Bengals,Indianapolis Colts,12/18/2006,3.9266,No,15,No,1.6354,1.3656,23.2,26.6,2,14,11,0,0,0,,600
+266,ESPN,New York Jets,Miami Dolphins,12/25/2006,1.626,Yes,16,No,-0.178,-1.3469,11,21,0,9,4,0,1,0,10000,2500
+267,ESPN,Arizona Cardinals,San Francisco 49ers,9/10/2007,2.0437,No,1,No,-0.2418,-0.4759,26.8,28.4,0,7,5,0,1,0,5000,2500
+268,ESPN,Cincinnati Bengals,Baltimore Ravens,9/10/2007,3.01,No,1,No,0.6213,0.3287,9.8,23.2,1,13,8,0,1,0,,2000
+269,ESPN,Washington Redskins,Philadelphia Eagles,9/17/2007,3.2646,No,2,No,0.9871,-0.3443,1.2,6.6,1,10,5,0,1,0,5000,2000
+270,ESPN,Tennessee Titans,New Orleans Saints,9/24/2007,3.01,No,3,No,1.2065,-0.0956,15.4,24,1,10,8,0,0,0,,2000
+271,ESPN,New England Patriots,Cincinnati Bengals,10/1/2007,3.2124,No,4,No,0.7969,0.6213,3.2,23.2,2,12,8,0,0,0,2000,250
+272,ESPN,Dallas Cowboys,Buffalo Bills,10/8/2007,3.7934,No,5,No,1.3821,-0.4467,2,25.4,0,9,7,0,0,0,10000,2000
+273,ESPN,New York Giants,Atlanta Falcons,10/15/2007,1.9393,No,6,No,0.358,-0.5637,16.4,30.4,,8,7,0,0,0,6000,3000
+274,ESPN,Indianapolis Colts,Jacksonville Jaguars,10/22/2007,3.5453,No,7,No,1.4113,0.5921,25,25.2,1,12,8,0,1,1,3000,800
+275,ESPN,Green Bay Packers,Denver Broncos,10/29/2007,4.0938,No,8,No,-0.1687,-0.432,6,14.4,,9,8,0,0,0,20000,5000
+276,ESPN,Baltimore Ravens,Pittsburgh Steelers,11/5/2007,2.4485,No,9,No,0.3287,0.3287,9.8,16.6,0,13,8,0,1,0,2500,2000
+277,ESPN,San Francisco 49ers,Seattle Seahawks,11/12/2007,2.0698,No,10,No,0.0654,-0.4759,16.4,26.8,,9,7,0,1,0,2500,2000
+278,ESPN,Tennessee Titans,Denver Broncos,11/19/2007,2.3245,No,11,No,-0.0956,-0.1687,6,15.4,0,9,8,0,0,0,20000,10000
+279,ESPN,Miami Dolphins,Pittsburgh Steelers,11/26/2007,3.7608,No,12,No,0.3287,-1.0319,12,16.6,0,8,6,0,0,0,6000,
+280,ESPN,New England Patriots,Baltimore Ravens,12/3/2007,5.4648,No,13,No,0.7969,0.3287,3.2,9.8,1,13,12,0,0,0,,250
+281,ESPN,New Orleans Saints,Atlanta Falcons,12/10/2007,1.9719,No,14,No,1.2065,-0.5637,24,30.4,1,10,7,0,1,0,6000,2000
+282,ESPN,Chicago Bears,Minnesota Vikings,12/17/2007,3.5062,No,15,No,1.4113,-0.71,9.4,31.2,0,13,6,0,1,0,5000,1400
+283,ESPN,Denver Broncos,San Diego Chargers,12/24/2007,1.541,Yes,16,No,2.3623,-0.1687,6,28.2,1,14,9,0,1,0,20000,600
+284,ESPN,Denver Broncos,Oakland Raiders,9/8/2008,1.9122,No,1,Yes,-0.3377,-0.8004,7,28.8,0,7,4,0,1,0,6000,5000
+285,ESPN,Minnesota Vikings,Green Bay Packers,9/8/2008,3.2916,No,1,Yes,1.1006,0.2251,14.4,31.6,0,13,8,0,1,0,3500,1700
+286,ESPN,Philadelphia Eagles,Dallas Cowboys,9/15/2008,6.1423,No,2,Yes,1.3507,-0.1376,1.8,5.2,1,13,8,0,1,0,2500,600
+287,ESPN,New York Jets,San Diego Chargers,9/22/2008,2.999,No,3,Yes,0.8129,-0.988,15.4,27.8,2,11,4,0,0,0,2500,
+288,ESPN,Baltimore Ravens,Pittsburgh Steelers,9/29/2008,2.9656,No,4,Yes,0.5753,-0.9005,10.2,16.8,,10,5,0,1,0,8000,1800
+289,ESPN,Minnesota Vikings,New Orleans Saints,10/6/2008,2.581,No,5,Yes,0.4002,0.2251,24.4,31.6,1,8,7,0,0,0,1700,1600
+290,ESPN,New York Giants,Cleveland Browns,10/13/2008,2.673,No,6,Yes,0.6879,0.3252,9,12.8,,10,10,0,0,1,,2000
+291,ESPN,Denver Broncos,New England Patriots,10/20/2008,2.5058,No,7,Yes,3.0266,-0.3377,3,7,1,16,7,0,0,0,5000,350
+292,ESPN,Indianapolis Colts,Tennessee Titans,10/27/2008,2.8318,No,8,Yes,1.2882,-0.5753,16.8,20.8,,13,10,0,1,0,4000,750
+293,ESPN,Pittsburgh Steelers,Washington Redskins,11/3/2008,3.9938,No,9,Yes,0.5753,-0.1626,1.4,16.8,0,10,9,0,0,0,4000,1800
+294,ESPN,San Francisco 49ers,Arizona Cardinals,11/10/2008,3.0241,No,10,Yes,0.7129,-1.6008,27,28,0,8,5,0,1,0,8000,5000
+295,ESPN,Cleveland Browns,Buffalo Bills,11/17/2008,2.9572,No,11,Yes,0.6879,-1.1881,9,25.6,0,10,7,0,0,0,5000,
+296,ESPN,Green Bay Packers,New Orleans Saints,11/24/2008,2.8736,No,12,Yes,1.1006,0.4002,14.4,24.4,1,13,7,0,0,0,3500,1600
+297,ESPN,Jacksonville Jaguars,Houston Texans,12/1/2008,1.6029,Yes,13,Yes,0.8004,0.4002,4.4,26.2,0,11,8,0,1,0,7000,1300
+298,ESPN,Tampa Bay Buccaneers,Carolina Panthers,12/8/2008,2.8903,No,14,Yes,-0.1626,-1.0005,11.8,25.2,0,7,6,0,1,0,6000,4000
+299,ESPN,Cleveland Browns,Philadelphia Eagles,12/15/2008,2.0711,No,15,Yes,0.6879,-0.1376,5.2,9,,10,8,0,0,0,2500,2500
+300,ESPN,Green Bay Packers,Chicago Bears,12/22/2008,3.6845,No,16,Yes,1.1006,-0.1626,8.8,14.4,0,13,7,0,1,0,4000,3500
+301,ESPN,San Diego Chargers,Oakland Raiders,9/14/2009,2.2684,No,1,No,1.2932,-1.3371,27,29.8,1,8,5,0,1,0,8000,1000
+302,ESPN,Buffalo Bills,New England Patriots,9/14/2009,2.9554,No,1,No,0.8598,-0.2461,2.8,26,1,11,7,0,1,0,6600,450
+303,ESPN,Indianapolis Colts,Miami Dolphins,9/21/2009,3.2498,No,2,No,0.3666,-0.1116,14,18,1,12,11,0,1,0,5000,1400
+304,ESPN,Carolina Panthers,Dallas Cowboys,9/28/2009,3.4897,No,3,No,0.9196,0.1424,1.6,11.8,0,12,9,0,0,0,2800,1600
+305,ESPN,Green Bay Packers,Minnesota Vikings,10/5/2009,5.2836,No,4,No,0.9943,0.3965,15.2,31.8,1,10,6,0,1,0,2500,1600
+306,ESPN,New York Jets,Miami Dolphins,10/12/2009,2.6828,No,5,No,0.7851,-0.1116,12,14,,11,9,0,1,0,5000,4000
+307,ESPN,Denver Broncos,San Diego Chargers,10/19/2009,2.6283,No,6,No,1.2932,0.262,7.8,27,1,8,8,0,1,0,6600,1000
+308,ESPN,Philadelphia Eagles,Washington Redskins,10/26/2009,2.4974,No,7,No,0.9495,-1.3072,1.6,5.6,1,9,8,0,1,0,4000,1400
+309,ESPN,Atlanta Falcons,New Orleans Saints,11/2/2009,2.2793,No,8,No,1.6519,0.5759,23.6,29.8,1,11,8,0,1,0,2500,2000
+310,ESPN,Pittsburgh Steelers,Denver Broncos,11/9/2009,3.4897,No,9,No,0.262,-0.0817,7.8,16.8,0,12,8,0,0,1,6600,1000
+311,ESPN,Baltimore Ravens,Cleveland Browns,11/16/2009,1.6523,Yes,10,No,0.4862,-1.8004,10.2,10.4,,11,4,0,1,0,8000,2500
+312,ESPN,Tennessee Titans,Houston Texans,11/23/2009,2.2739,No,11,No,0.3367,0.2022,5,17.6,0,13,8,0,1,0,4000,2000
+313,ESPN,New England Patriots,New Orleans Saints,11/30/2009,5.1582,No,12,No,1.6519,0.8598,2.8,23.6,,11,8,0,0,0,2000,450
+314,ESPN,Baltimore Ravens,Green Bay Packers,12/7/2009,2.6446,No,13,No,0.9943,0.4862,10.4,15.2,0,11,6,0,0,0,2500,2500
+315,ESPN,Arizona Cardinals,San Francisco 49ers,12/14/2009,2.6228,No,14,No,1.1139,-0.2013,25.2,28.4,0,9,7,0,1,0,6600,2800
+316,ESPN,New York Giants,Washington Redskins,12/21/2009,2.0721,No,15,No,1.1139,-1.3072,1.6,9.6,1,12,8,0,1,0,4000,1200
+317,ESPN,Minnesota Vikings,Chicago Bears,12/28/2009,3.7515,No,16,No,0.3965,0.3367,9,31.8,1,10,9,0,1,0,2000,1600
+318,ESPN,San Diego Chargers,Kansas City Chiefs,9/13/2010,2.1028,No,1,No,1.3712,-0.6137,15.6,26,1,13,4,0,1,0,12500,1000
+319,ESPN,Baltimore Ravens,New York Jets,9/13/2010,3.2222,No,1,No,0.5896,0.0562,9,9.8,0,9,9,0,0,0,1200,1200
+320,ESPN,New Orleans Saints,San Francisco 49ers,9/20/2010,3.254,No,2,No,2.0659,-0.1671,23.4,27.6,,13,8,0,1,1,2800,1000
+321,ESPN,Green Bay Packers,Chicago Bears,9/27/2010,4.1191,No,3,No,1.458,-0.2043,8.8,15.4,0,11,7,0,1,0,4000,1100
+322,ESPN,New England Patriots,Miami Dolphins,10/4/2010,2.9805,No,4,No,1.0362,0.2051,2.8,14.8,,10,7,0,1,0,3300,1200
+323,ESPN,Minnesota Vikings,New York Jets,10/11/2010,4.1064,No,5,No,1.5697,0.0562,9,31.4,1,12,9,0,0,0,1400,1200
+324,ESPN,Tennessee Titans,Jacksonville Jaguars,10/18/2010,1.1932,Yes,6,No,0.1306,-0.6633,18.4,28.8,0,8,7,0,1,0,8000,3300
+325,ESPN,New York Giants,Dallas Cowboys,10/25/2010,4.3735,No,7,No,0.7261,0.2175,1.4,7,2,11,8,0,1,0,2500,1000
+326,ESPN,Houston Texans,Indianapolis Colts,11/1/2010,1.9629,No,8,No,0.8998,0.5524,5,15.4,1,14,9,0,1,0,3300,800
+327,ESPN,Pittsburgh Steelers,Cincinnati Bengals,11/8/2010,3.095,No,9,No,0.3043,-0.4772,17,22,0,10,9,0,1,0,3300,2500
+328,ESPN,Philadelphia Eagles,Washington Redskins,11/15/2010,3.2032,No,10,No,1.0611,-0.961,1.8,6.2,0,11,4,0,1,0,,2500
+329,ESPN,Denver Broncos,San Diego Chargers,11/22/2010,1.8738,No,11,No,1.3712,-0.2167,8.6,26,1,13,8,0,1,0,6600,1000
+330,ESPN,San Francisco 49ers,Arizona Cardinals,11/29/2010,1.7084,Yes,12,No,0.3912,-0.1671,23.6,27.6,0,10,8,0,1,0,5000,2800
+331,ESPN,New York Jets,New England Patriots,12/6/2010,3.6357,No,13,No,1.0362,0.0562,2.8,9,1,10,9,0,1,0,1200,1200
+332,ESPN,Baltimore Ravens,Houston Texans,12/13/2010,2.1664,No,14,No,0.5896,0.5524,5,9.8,0,9,9,0,0,0,3300,1200
+333,ESPN,Chicago Bears,Minnesota Vikings,12/20/2010,3.623,No,15,No,1.5697,-0.2043,8.8,31.4,,12,7,0,1,0,4000,1400
+334,ESPN,New Orleans Saints,Atlanta Falcons,12/27/2010,4.3799,No,16,No,2.0659,0.2423,23.4,29.4,1,13,9,0,1,1,2800,1000
+335,ESPN,Oakland Raiders,Denver Broncos,9/12/2011,2.1837,No,1,No,0.8924,-0.1336,9.8,30.6,0,8,4,0,1,0,10000,6600
+336,ESPN,New England Patriots,Miami Dolphins,9/12/2011,3.5225,No,1,No,2.5713,-1.2373,3,15.2,0,14,7,0,1,0,6600,
+337,ESPN,St. Louis Rams,New York Giants,9/19/2011,2.6407,No,2,No,0.6437,-0.9886,4.8,25.8,1,10,7,0,0,0,5000,2200
+338,ESPN,Washington Redskins,Dallas Cowboys,9/26/2011,4.4621,No,3,No,0.6437,-0.7865,1,2,,6,6,0,1,0,10000,2000
+339,ESPN,Indianapolis Colts,Tampa Bay Buccaneers,10/3/2011,2.1323,No,4,No,1.2811,-0.1802,13.2,25.2,1,10,6,0,0,0,6000,1600
+340,ESPN,Chicago Bears,Detroit Lions,10/10/2011,4.2369,No,5,No,0.1462,-0.2891,8.4,25.8,0,11,6,0,1,0,2800,1400
+341,ESPN,Miami Dolphins,New York Jets,10/17/2011,2.6536,No,6,No,0.224,-1.2373,6.2,15.2,0,11,7,0,1,0,6600,1200
+342,ESPN,Baltimore Ravens,Jacksonville Jaguars,10/24/2011,1.5466,Yes,7,No,0.0685,0.0063,10,30,,12,8,0,0,0,6600,1600
+343,ESPN,San Diego Chargers,Kansas City Chiefs,10/31/2011,2.7179,No,8,No,1.3743,0.2084,16.4,24.6,1,10,9,0,1,0,5000,1000
+344,ESPN,Chicago Bears,Philadelphia Eagles,11/7/2011,4.4879,No,9,No,1.3432,-0.2891,6.6,8.4,,11,10,0,0,0,2800,800
+345,ESPN,Minnesota Vikings,Green Bay Packers,11/14/2011,3.2393,No,10,No,0.5504,-1.113,14.6,30.6,0,10,6,0,1,1,5000,650
+346,ESPN,Kansas City Chiefs,New England Patriots,11/21/2011,2.6729,No,11,No,2.5713,0.2084,3,16.4,,14,10,0,0,0,5000,500
+347,ESPN,New York Giants,New Orleans Saints,11/28/2011,3.5933,No,12,No,0.6437,0.4882,4.8,22.2,2,11,10,0,0,0,2200,1400
+348,ESPN,San Diego Chargers,Jacksonville Jaguars,12/5/2011,1.5852,Yes,13,No,1.3743,0.0063,24.6,30,1,9,8,0,0,0,6600,1000
+349,ESPN,St. Louis Rams,Seattle Seahawks,12/12/2011,1.6367,Yes,14,No,-0.6621,-0.9886,18.6,25.8,0,7,7,0,1,0,10000,5000
+350,ESPN,Pittsburgh Steelers,San Francisco 49ers,12/19/2011,4.1468,No,15,No,0.3483,-0.7399,16,25.2,,12,6,0,0,0,5000,1400
+351,ESPN,Atlanta Falcons,New Orleans Saints,12/26/2011,3.5418,No,16,No,0.9546,0.4882,22.2,28.6,,13,11,0,1,0,1600,1400
+352,ESPN,San Diego Chargers,Oakland Raiders,9/10/2012,1.9549,No,1,Yes,0.5809,0.0462,24.2,31,1,8,8,0,1,0,8000,2200
+353,ESPN,Cincinnati Bengals,Baltimore Ravens,9/10/2012,2.1025,No,1,Yes,0.2624,-0.1244,10,23.6,0,12,9,0,1,0,4000,1800
+354,ESPN,Denver Broncos,Atlanta Falcons,9/17/2012,4.2042,No,2,Yes,0.5354,-0.5226,11.2,28,2,10,8,0,0,0,2200,1600
+355,ESPN,Green Bay Packers,Seattle Seahawks,9/24/2012,4.415,No,3,Yes,2.3328,-0.3861,13.2,18.2,1,15,7,0,0,0,5000,600
+356,ESPN,Chicago Bears,Dallas Cowboys,10/1/2012,4.5908,No,4,Yes,0.16,-0.022,1,8.6,,8,8,0,0,0,2200,2200
+357,ESPN,Houston Texans,New York Jets,10/8/2012,3.5083,No,5,Yes,0.2965,0.251,5.4,5.6,0,10,8,0,0,0,3300,1000
+358,ESPN,Denver Broncos,San Diego Chargers,10/15/2012,2.9811,No,6,Yes,0.5809,-0.5226,11.2,24.2,2,8,8,0,1,0,2200,1600
+359,ESPN,Detroit Lions,Chicago Bears,10/22/2012,1.8494,No,7,Yes,1.3772,-0.022,8.6,26.4,,10,8,0,1,0,2200,2200
+360,ESPN,San Francisco 49ers,Arizona Cardinals,10/29/2012,1.9267,No,8,Yes,0.2851,-0.4885,21,24,0,13,8,0,1,0,6600,1200
+361,ESPN,Philadelphia Eagles,New Orleans Saints,11/5/2012,2.953,No,9,Yes,2.185,0.4671,7,21.8,2,13,8,0,0,0,1600,1100
+362,ESPN,Kansas City Chiefs,Pittsburgh Steelers,11/12/2012,2.9389,No,10,Yes,-0.3406,-1.6261,15.6,17.8,0,12,7,0,0,0,5000,1800
+363,ESPN,Chicago Bears,San Francisco 49ers,11/19/2012,2.7632,No,11,Yes,0.2851,-0.022,8.6,21,0,13,8,0,0,0,2200,1200
+364,ESPN,Carolina Panthers,Philadelphia Eagles,11/26/2012,2.1025,No,12,Yes,0.5809,0.4671,7,13.8,,8,6,0,0,0,4000,1100
+365,ESPN,New York Giants,Washington Redskins,12/3/2012,4.3869,No,13,Yes,0.4444,-0.7615,2.2,4,,9,5,0,1,1,6600,2000
+366,ESPN,Houston Texans,New England Patriots,12/10/2012,3.4872,No,14,Yes,1.7982,0.2965,2.8,5.6,1,13,10,0,0,0,1000,600
+367,ESPN,New York Jets,Tennessee Titans,12/17/2012,1.8354,No,15,Yes,0.251,-0.3406,5.4,19.6,0,9,8,0,0,0,5000,3300
+368,ESPN,Houston Texans,San Diego Chargers,9/9/2013,1.6794,Yes,1,No,0.6991,-0.1898,5.4,24,1,12,7,0,0,0,5000,1400
+369,ESPN,Philadelphia Eagles,Washington Redskins,9/9/2013,4.277,No,1,No,0.9685,-1.1326,2.4,7,0,10,4,0,1,0,4000,3300
+370,ESPN,Pittsburgh Steelers,Cincinnati Bengals,9/16/2013,3.3493,No,2,No,0.3624,-0.3784,14.8,24.8,0,10,8,0,1,0,2800,2200
+371,ESPN,Oakland Raiders,Denver Broncos,9/23/2013,3.2565,No,3,No,1.5746,-0.9979,11.6,31.2,1,13,4,0,1,0,15000,600
+372,ESPN,Miami Dolphins,New Orleans Saints,9/30/2013,2.9782,No,4,No,1.3052,-1.0249,15.8,22,1,7,7,0,0,0,4000,1600
+373,ESPN,New York Jets,Atlanta Falcons,10/7/2013,1.9577,No,5,No,0.7395,-1.1192,5.6,27.4,1,13,6,0,0,0,12500,1600
+374,ESPN,Indianapolis Colts,San Diego Chargers,10/14/2013,2.236,No,6,No,-0.0955,-0.1898,12,24,,11,7,0,0,0,5000,3500
+375,ESPN,Minnesota Vikings,New York Giants,10/21/2013,2.8854,No,7,No,0.8742,0.2008,4,26.4,1,10,9,0,0,0,4000,2000
+376,ESPN,Seattle Seahawks,St. Louis Rams,10/28/2013,1.4011,Yes,8,No,0.6452,-0.8767,17.4,28.8,0,11,7,0,1,0,6600,
+377,ESPN,Chicago Bears,Green Bay Packers,11/4/2013,4.277,No,9,No,0.9281,0.1469,8.4,12.4,1,11,10,0,1,0,,1000
+378,ESPN,Miami Dolphins,Tampa Bay Buccaneers,11/11/2013,1.6794,Yes,10,No,0.3355,-1.0249,15.8,25.2,,7,6,0,0,0,6000,4000
+379,ESPN,New England Patriots,Carolina Panthers,11/18/2013,4.1842,No,11,No,2.5982,-0.0955,2.6,14.6,2,12,7,0,0,0,5000,850
+380,ESPN,San Francisco 49ers,Washington Redskins,11/25/2013,2.6999,No,12,No,0.9685,0.4432,2.4,17,0,11,10,0,0,0,3300,700
+381,ESPN,New Orleans Saints,Seattle Seahawks,12/2/2013,3.9987,No,13,No,1.3052,0.6452,17.4,22,1,11,7,0,0,0,1600,800
+382,ESPN,Dallas Cowboys,Chicago Bears,12/9/2013,4.3697,No,14,No,0.1604,0.1469,1,8.4,0,10,8,0,0,0,3300,2800
+383,ESPN,Baltimore Ravens,Detroit Lions,12/16/2013,3.3493,No,15,No,0.4567,0.1065,9.8,27.2,0,10,4,0,0,1,,2500
+384,ESPN,Atlanta Falcons,San Francisco 49ers,12/23/2013,2.4215,No,16,No,0.7395,0.4432,17,27.4,1,13,11,1,0,0,1600,700
+385,ESPN,San Diego Chargers,Arizona Cardinals,9/8/2014,1.9796,No,1,No,0.3073,0.0632,24.2,24.4,1,10,9,0,0,0,5000,
+386,ESPN,New York Giants,Detroit Lions,9/8/2014,3.1449,No,1,No,0.2929,-1.1569,4,27.6,0,7,7,0,0,0,4000,4000
+387,ESPN,Philadelphia Eagles,Indianapolis Colts,9/15/2014,3.807,No,2,No,0.9676,0.2355,7,11.4,1,11,10,0,0,0,2500,2200
+388,ESPN,Chicago Bears,New York Jets,9/22/2014,3.1096,No,3,No,1.0106,-1.2143,5.8,8.2,,8,8,0,0,0,6000,2500
+389,ESPN,New England Patriots,Kansas City Chiefs,9/29/2014,3.4539,No,4,No,0.9963,0.7953,2.4,20.4,1,12,11,0,0,0,5000,650
+390,ESPN,Seattle Seahawks,Washington Redskins,10/6/2014,2.933,No,5,No,0.6087,-0.5827,2.6,16.4,,13,3,0,0,1,6000,450
+391,ESPN,San Francisco 49ers,St. Louis Rams,10/13/2014,2.8536,No,6,No,0.4508,-0.3817,13.4,30.2,0,12,7,0,1,0,7500,900
+392,ESPN,Houston Texans,Pittsburgh Steelers,10/20/2014,3.1184,No,7,No,0.0632,-1.4153,5.2,14.4,,8,2,0,0,0,3000,2200
+393,ESPN,Washington Redskins,Dallas Cowboys,10/27/2014,5.8021,No,8,No,0.9245,-0.5827,1,2.6,1,8,3,0,1,0,7500,6000
+394,ESPN,Indianapolis Colts,New York Giants,11/3/2014,2.5622,No,9,No,0.2355,-1.1569,4,11.4,1,11,7,0,0,0,4000,2200
+395,ESPN,Carolina Panthers,Philadelphia Eagles,11/10/2014,2.059,No,10,No,0.9676,-0.1234,7,15.6,,12,10,0,0,0,6000,2500
+396,ESPN,Pittsburgh Steelers,Tennessee Titans,11/17/2014,2.8712,No,11,No,0.0632,-0.1808,14.4,19.4,1,8,7,0,0,0,10000,2200
+397,ESPN,Baltimore Ravens,New Orleans Saints,11/24/2014,1.6441,Yes,12,No,0.5657,-0.7837,9.6,22.2,1,11,8,0,0,0,2500,700
+398,ESPN,Miami Dolphins,New York Jets,12/1/2014,2.2356,No,13,No,-0.8267,-1.2143,5.8,15.4,0,8,8,0,1,0,6000,5000
+399,ESPN,Atlanta Falcons,Green Bay Packers,12/8/2014,3.2067,No,14,No,0.6087,-0.31,11.6,25.6,,8,4,0,0,0,,1000
+400,ESPN,New Orleans Saints,Chicago Bears,12/15/2014,1.9708,No,15,No,1.0106,0.5657,8.2,22.2,1,11,8,0,0,0,2500,700
+401,ESPN,Denver Broncos,Cincinnati Bengals,12/22/2014,4.2484,No,16,No,3.3217,0.7953,11.8,26,1,13,11,0,0,0,2200,550
+402,ESPN,Minnesota Vikings,San Francisco 49ers,9/14/2015,3.9078,No,1,No,-0.5127,-0.7803,10,21.8,0,8,7,0,0,0,10000,4000
+403,ESPN,Philadelphia Eagles,Atlanta Falcons,9/14/2015,3.4757,No,1,No,1.5857,0.2759,7.4,23.8,,10,6,0,0,0,4000,800
+404,ESPN,New York Jets,Indianapolis Colts,9/21/2015,3.0559,No,2,No,1.3603,-1.1042,5.8,12,0,11,4,0,0,0,10000,800
+405,ESPN,Kansas City Chiefs,Green Bay Packers,9/28/2015,3.3276,No,3,No,1.7546,-0.1184,10.8,20.6,2,12,9,0,0,0,3000,600
+406,ESPN,Detroit Lions,Seattle Seahawks,10/5/2015,4.0807,No,4,No,0.459,-0.569,15.6,28.2,,12,11,0,0,0,3000,450
+407,ESPN,Pittsburgh Steelers,San Diego Chargers,10/12/2015,2.488,No,5,No,1.0505,-0.1888,13.6,24,2,11,9,0,0,0,4000,2000
+408,ESPN,New York Giants,Philadelphia Eagles,10/19/2015,3.735,No,6,No,1.5857,0.2619,4,7.4,1,10,6,0,1,0,6000,800
+409,ESPN,Baltimore Ravens,Arizona Cardinals,10/26/2015,2.6855,No,7,No,0.6703,-0.724,10.4,23.6,1,11,10,0,0,0,3000,1600
+410,ESPN,Indianapolis Colts,Carolina Panthers,11/2/2015,2.6608,No,8,No,1.3603,-0.3155,12,17,,11,7,0,0,0,6000,800
+411,ESPN,Chicago Bears,San Diego Chargers,11/9/2015,2.0188,No,9,No,-0.1888,-0.5972,8,24,1,9,5,0,0,0,8000,4000
+412,ESPN,Houston Texans,Cincinnati Bengals,11/16/2015,2.5127,No,10,No,0.1492,0.0506,5.6,26.8,1,10,9,0,0,0,4000,4000
+413,ESPN,Buffalo Bills,New England Patriots,11/23/2015,3.9819,No,11,No,1.5012,-0.2592,2.2,30.2,,12,9,0,1,1,4000,
+414,ESPN,Baltimore Ravens,Cleveland Browns,11/30/2015,1.1175,Yes,12,No,0.6703,-0.8789,10.4,22,1,10,7,0,1,0,10000,1600
+415,ESPN,Dallas Cowboys,Washington Redskins,12/7/2015,3.8091,No,13,No,1.4871,-0.8507,1,2.8,1,12,4,0,1,0,10000,1400
+416,ESPN,New York Giants,Miami Dolphins,12/14/2015,2.167,No,14,No,0.3745,0.2619,4,15.4,,8,6,0,0,0,6000,2000
+417,ESPN,Detroit Lions,New Orleans Saints,12/21/2015,1.315,Yes,15,No,0.5576,-0.569,22.6,28.2,2,11,7,0,0,0,3000,3000
+418,ESPN,Cincinnati Bengals,Denver Broncos,12/28/2015,4.661,No,16,No,1.6983,0.0506,12,26.8,,12,10,0,0,0,,900
+419,ESPN,St. Louis Rams,San Francisco 49ers,9/12/2016,2.5419,No,1,Yes,-1.3956,-2.0852,7.4,25.2,0,7,5,0,1,0,20000,10000
+420,ESPN,Pittsburgh Steelers,Washington Redskins,9/12/2016,3.6621,No,1,Yes,0.9523,0.3776,3.4,14,2,10,9,0,0,0,2500,1000
+421,ESPN,Philadelphia Eagles,Chicago Bears,9/19/2016,3.3629,No,2,Yes,0.197,-0.4926,8,8,0,7,6,0,0,0,10000,8000
+422,ESPN,Atlanta Falcons,New Orleans Saints,9/26/2016,1.5061,Yes,3,Yes,0.706,-0.4269,22.2,24.2,2,8,7,0,1,0,8000,8000
+423,ESPN,New York Giants,Minnesota Vikings,10/3/2016,3.9153,No,4,Yes,0.9031,0,3.8,19.6,1,11,6,0,0,0,2000,1800
+424,ESPN,Tampa Bay Buccaneers,Carolina Panthers,10/10/2016,2.0509,No,5,Yes,2.2166,-0.3776,18.4,21,0,15,6,0,1,0,8000,1200
+425,ESPN,New York Jets,Arizona Cardinals,10/17/2016,1.7209,Yes,6,Yes,2.036,0.3612,6.2,23.4,0,13,10,0,0,0,5000,800
+426,ESPN,Houston Texans,Denver Broncos,10/24/2016,2.9255,No,7,Yes,-0.1642,-0.4269,6.2,11.8,0,12,9,0,0,1,2500,1600
+427,ESPN,Minnesota Vikings,Chicago Bears,10/31/2016,2.657,No,8,Yes,0,-0.4926,8,19.6,1,11,6,0,1,0,8000,2000
+428,ESPN,Buffalo Bills,Seattle Seahawks,11/7/2016,3.0253,No,9,Yes,0.9523,0.2299,15.6,30.8,0,10,8,0,0,0,6000,800
+429,ESPN,Cincinnati Bengals,New York Giants,11/14/2016,2.8795,No,10,Yes,0.9031,0.8866,3.8,27.8,0,12,6,0,0,0,2000,1800
+430,ESPN,Houston Texans,Oakland Raiders,11/21/2016,3.079,No,11,Yes,-0.0985,-0.4269,6.2,28.2,1,9,7,0,0,0,2000,1600
+431,ESPN,Green Bay Packers,Philadelphia Eagles,11/28/2016,3.7695,No,12,Yes,0.197,0.0493,8,11.6,,10,7,0,0,0,10000,800
+432,ESPN,Indianapolis Colts,New York Jets,12/5/2016,1.6212,Yes,13,Yes,0.3612,-0.5254,6.2,13.4,1,10,8,0,0,0,5000,2000
+433,ESPN,Baltimore Ravens,New England Patriots,12/12/2016,3.7695,No,14,Yes,1.6419,-0.6075,2,11.2,1,12,5,0,0,0,3000,600
+434,ESPN,Carolina Panthers,Washington Redskins,12/19/2016,2.9869,No,15,Yes,2.2166,0.3776,3.4,18.4,1,15,9,0,0,0,2500,1200
+435,ESPN,Detroit Lions,Dallas Cowboys,12/26/2016,5.5265,No,16,Yes,-0.1149,-1.4777,1,29.2,1,7,4,0,0,0,6000,2500
+436,ESPN,St. Louis Rams,Denver Broncos,9/11/2017,2.432,No,1,No,-0.4711,-2.1161,11.4,20.2,0,9,4,0,0,0,10000,4000
+437,ESPN,New Orleans Saints,Minnesota Vikings,9/11/2017,3.3,No,1,No,1.5813,-0.5617,18.8,25,2,8,7,0,0,0,4000,2500
+438,ESPN,Detroit Lions,New York Giants,9/18/2017,3.9762,No,2,No,-0.2749,-0.8182,3.6,30,1,11,9,0,0,0,10000,1200
+439,ESPN,Dallas Cowboys,Arizona Cardinals,9/25/2017,4.8442,No,3,No,0.8569,0.8116,1,23,,13,7,0,0,0,4000,1200
+440,ESPN,Washington Redskins,Kansas City Chiefs,10/2/2017,3.8184,No,4,No,0.4796,0.374,3.6,23,1,12,8,0,0,0,10000,2500
+441,ESPN,Minnesota Vikings,Chicago Bears,10/9/2017,2.556,No,5,No,-0.5617,-1.2861,7.8,18.8,1,8,3,0,1,0,10000,4000
+442,ESPN,Indianapolis Colts,Tennessee Titans,10/16/2017,1.4965,Yes,6,No,0.706,0.2532,15,22.8,0,9,8,0,1,0,10000,2000
+443,ESPN,Washington Redskins,Philadelphia Eagles,10/23/2017,3.4465,No,7,No,0.4796,0.042,3.6,8.6,1,8,7,0,1,0,10000,4000
+444,ESPN,Denver Broncos,Kansas City Chiefs,10/30/2017,2.7702,No,8,No,0.374,-0.4711,11.4,23,,12,9,0,1,0,4000,2500
+445,ESPN,Detroit Lions,Green Bay Packers,11/6/2017,3.2661,No,9,No,1.0229,-0.2749,12.2,30,2,10,9,0,1,0,10000,800
+446,ESPN,Miami Dolphins,Carolina Panthers,11/13/2017,1.767,No,10,No,0.0722,-0.0184,14.4,19.4,0,10,6,0,0,0,10000,3000
+447,ESPN,Atlanta Falcons,Seattle Seahawks,11/20/2017,2.8491,No,11,No,2.6528,-0.1542,15.6,19.6,2,11,10,0,0,0,1600,800
+448,ESPN,Houston Texans,Baltimore Ravens,11/27/2017,1.3725,Yes,12,No,-0.3202,-1.2861,6.8,11.8,,9,8,0,0,0,5000,4000
+449,ESPN,Pittsburgh Steelers,Cincinnati Bengals,12/4/2017,3.221,No,13,No,0.5249,-0.5919,14.4,28.6,,11,6,0,1,0,8000,1000
+450,ESPN,New England Patriots,Miami Dolphins,12/11/2017,3.8072,No,14,No,1.1587,-0.0184,2,14.4,1,14,10,0,1,1,10000,275
+451,ESPN,Atlanta Falcons,Tampa Bay Buccaneers,12/18/2017,2.1052,No,15,No,2.6528,-0.1542,19.6,23,1,11,9,0,1,0,4000,1600
+452,NBC,Pittsburgh Steelers,Houston Texans,12/25/2017,4.63,No,16,No,0.5249,-1.2861,6.8,14.4,1,11,9,0,0,0,4000,
+453,ESPN,Oakland Raiders,Philadelphia Eagles,12/25/2017,2.3419,No,16,No,0.7814,0.042,8.6,26,1,12,7,0,0,0,4000,800
+454,ESPN,St. Louis Rams,Oakland Raiders,9/10/2018,2.1529,No,1,No,2.0031,-0.7137,15.2,23.2,1,11,6,0,0,0,4000,1000
+455,ESPN,New York Jets,Detroit Lions,9/10/2018,2.4304,No,1,No,0.9593,-0.7598,7.2,30.6,0,9,5,0,0,0,20000,4000
+456,ESPN,Seattle Seahawks,Chicago Bears,9/17/2018,3.161,No,2,No,0.284,-1.2817,7.6,15.8,,9,5,0,0,0,6000,6000
+457,ESPN,Pittsburgh Steelers,Tampa Bay Buccaneers,9/24/2018,3.383,No,3,No,0.8979,-0.1919,14.6,25.2,,13,5,0,0,0,30000,1000
+458,ESPN,Kansas City Chiefs,Denver Broncos,10/1/2018,4.012,No,4,No,1.0361,-0.8979,11,23.8,1,10,5,0,1,0,4000,3000
+459,ESPN,Washington Redskins,New Orleans Saints,10/8/2018,2.5414,No,5,No,1.5426,-0.0844,4,25.6,1,11,7,0,0,0,10000,1400
+460,ESPN,San Francisco 49ers,Green Bay Packers,10/15/2018,3.309,No,6,No,-0.2533,-0.4221,5.8,12.2,,7,6,0,0,0,4000,1200
+461,ESPN,New York Giants,Atlanta Falcons,10/22/2018,2.5691,No,7,No,0.0844,-1.558,3.4,17,1,10,3,0,0,0,3000,1400
+462,ESPN,New England Patriots,Buffalo Bills,10/29/2018,2.8188,No,8,No,1.6961,-0.6984,2,31.8,1,13,9,0,1,0,30000,600
+463,ESPN,Tennessee Titans,Dallas Cowboys,11/5/2018,3.3183,No,9,No,0.0998,-0.2072,1,24.4,1,9,9,0,0,0,3000,2500
+464,ESPN,New York Giants,San Francisco 49ers,11/12/2018,2.5229,No,10,No,-0.2533,-1.558,3.4,5.8,0,6,3,0,0,0,4000,3000
+465,ESPN,Kansas City Chiefs,St. Louis Rams,11/19/2018,5.6305,No,11,No,2.0031,1.0361,15.2,23.8,2,11,10,0,0,0,3000,1000
+466,ESPN,Tennessee Titans,Houston Texans,11/26/2018,2.2361,No,12,No,-0.1458,-0.2072,7.6,24.4,1,9,4,0,1,0,2500,1200
+467,ESPN,Washington Redskins,Philadelphia Eagles,12/3/2018,3.0223,No,13,No,1.6808,-0.0844,4,9.2,1,13,7,0,1,1,10000,1400
+468,ESPN,Minnesota Vikings,Seattle Seahawks,12/10/2018,3.0408,No,14,No,0.5296,0.284,15.8,18.4,1,13,9,0,0,0,6000,
+469,ESPN,New Orleans Saints,Carolina Panthers,12/17/2018,3.9657,No,15,No,1.5426,0.2379,20,25.6,1,11,11,0,1,0,3000,1400
+470,ESPN,Denver Broncos,Oakland Raiders,12/24/2018,0.8858,Yes,16,No,-0.7137,-0.8979,11,23.2,0,6,5,0,1,0,4000,4000
